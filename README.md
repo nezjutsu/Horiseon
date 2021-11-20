@@ -29,7 +29,7 @@ Updated repetative "wet" code to make more reusable code in future website devel
 
 ## **Current Website**
 
-![picture of website](./docs/assets/images/Horiseon-ss.png)
+![picture of website](./docs/assets/images/Horiseon-SS.png)
 
 ## Link to deployed application
 
